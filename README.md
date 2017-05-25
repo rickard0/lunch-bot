@@ -3,9 +3,9 @@
 A clojure app designed as a POC for an integration between Slack and Yelp for randomized lunch suggestions.
 
 ## Config
-  Look in slack.clj for the placeholder for your slack bot's id
-  Look in yelp.clj for the placeholders for your API credentials and location
-  Update the location in Slack.clj or, ideally, update the code so that this is dynamic per user and persisted in a database location of your choice. 
+  * Look in slack.clj for the placeholder for your slack bot's id
+  * Look in yelp.clj for the placeholders for your API credentials and location
+  * Update the location in Slack.clj or, ideally, update the code so that this is dynamic per user and persisted in a database location of your choice. 
 
 ## Usage
 
